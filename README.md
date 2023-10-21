@@ -3,7 +3,7 @@
 I'm a JavaScript developer, doing crazy stuff at @ [Katoid](https://katoid.com/).
 
 
-<!--
+
 
 <details>
 <summary>
@@ -12,6 +12,10 @@ I'm a JavaScript developer, doing crazy stuff at @ [Katoid](https://katoid.com/)
 
 
 👌
+
+
+
+<!--
 **llorenspujol/llorenspujol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some project I am involved on:
